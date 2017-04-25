@@ -8,4 +8,9 @@ public class Oblicz {
         return x+y;
     }
     
+    public int odejmij(int x,int y)
+    {
+        return x-y+2;
+    }
+    
 }
